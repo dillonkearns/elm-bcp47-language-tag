@@ -4,10 +4,10 @@
   "description": "BCP47 language tags, ISO 639-1 language codes, and ISO 3166-1 country codes.",
   "devDependencies": {
     "@types/language-tags": "^1.0.0",
-    "elm-review": "^2.3.3",
-    "elm-test": "^0.19.1-revision4",
+    "elm-review": "^2.13.5",
+    "elm-test": "^0.19.1-revision17",
     "elm-tooling": "^0.6.2",
-    "elm-verify-examples": "^5.2.0",
+    "elm-verify-examples": "^6.0.3",
     "language-tags": "^1.0.5",
     "node-fetch": "^2.6.1",
     "prettier": "^2.2.1",
